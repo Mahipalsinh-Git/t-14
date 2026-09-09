@@ -4,12 +4,12 @@
 const config = {
   semi: true,
   singleQuote: false,
-  trailingComma: 'es5',
+  trailingComma: "es5",
   tabWidth: 2,
   bracketSpacing: false,
-  arrowParens: 'avoid',
+  arrowParens: "avoid",
 
-  plugins: ['prettier-plugin-tailwindcss'],
-}
+  plugins: ["prettier-plugin-tailwindcss"],
+};
 
-export default config
+export default config;

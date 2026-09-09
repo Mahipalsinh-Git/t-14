@@ -1,2 +1,0 @@
-Extra
-    bun add prettier-plugin-tailwindcss -D
